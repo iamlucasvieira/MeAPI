@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "meapi"
+version = "0.1.0"
+description = "My CV as an API"
+authors = ["lucas <lucas6eng@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.104.0"
+hypercorn = "^0.14.4"
+
+[tool.poetry.scripts]
+dev = "meapi.main:dev"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
