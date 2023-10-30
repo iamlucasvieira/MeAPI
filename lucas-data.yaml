@@ -1,0 +1,151 @@
+---
+info:
+  - name: "Email"
+    value: "lucas6eng@gmail.com"
+    alias:
+      ["mail", "e-mail", "e-mail address", "email address", "contact", "email"]
+  - name: "Website"
+    value: "https://lucasvieira.nl/"
+    alias:
+      [
+        "site",
+        "website",
+        "blog",
+        "portfolio",
+        "homepage",
+        "webpage",
+        "web page",
+        "personal website",
+        "personal site",
+        "personal homepage",
+        "personal webpage",
+      ]
+  - name: "GitHub"
+    value: "https://github.com/iamlucasvieira"
+    alias: ["git", "github", "github profile", "codebase", "code", "repository"]
+  - name: "LinkedIn"
+    value: "https://www.linkedin.com/in/iamlucasvieira/"
+    alias:
+      [
+        "linkedin",
+        "linkedin profile",
+        "linkedin page",
+        "linkedin profile page",
+        "linkedin profile link",
+        "linkedin link",
+        "linkedin url",
+        "linkedin address",
+      ]
+  - name: "Address"
+    value: "Landsmeer, NL"
+    alias: ["address", "city", "location"]
+  - name: "Phone"
+    value: "+31 6 1122 0848"
+    alias:
+      [
+        "phone",
+        "telephone",
+        "phone number",
+        "telephone number",
+        "number",
+        "contact number",
+        "cellphone",
+      ]
+  - name: "Birthday"
+    value: "1996-07-29"
+    alias: ["birthday", "birth date", "date of birth", "age"]
+  - name: "Description"
+    value: "Passionate about solving engineering problems. Experienced in providing technical solutions for complex systems, including aircraft and drones. Thrives in teams that encourage innovation and creativity."
+    alias: ["description", "about", "about me", "bio"]
+education:
+  - name: "BSc Aerospace Engineering"
+    institution: "Delft University of Technology"
+    place: "Delft, NL"
+    description:
+      - "Graduation project: Designed a space mission to Venus in a team of ten, working as an engineer and project manager, receiving a 9.4 grade."
+      - "Demonstrated project management skills by creating plans, monitoring progress, anticipating potential challenges, and ensuring timely delivery."
+      - "Presented the project at TU Delft Design/Synthesis Symposium and was awarded second place."
+      - "Completed a computer science minor with an 8.4 GPA, gaining experience in Software development, data analysis, and optimisation algorithms"
+      - "Relevant Courses: Thermodynamics, Aerodynamics, Systems Engineering"
+    start: 2018-09-01
+    end: 2021-09-01
+  - name: "MSc Aerospace Control and Simulation"
+    institution: "Delft University of Technology"
+    place: "Delft, NL"
+    description:
+      - "Thesis: Designed an AI autopilot that controls an aircraft even with a wing damaged. Built with PyTorch and earned a grade of 8.5."
+      - "Relevant project: designed flight routes that minimise noise and fuel consumption, demonstrating strong analytical and data analysis skills."
+    start: 2021-09-01
+    end: 2023-07-01
+experience:
+  - name: "Software & Controls Engineering Intern"
+    institution: "Avy"
+    place: "Amsterdam, NL"
+    description:
+      - "Developed a tool to automate drone software and hardware testing, increasing production speed and eliminating the need for manual tests."
+      - "Created a real-time drone fleet monitoring application that analyzes flight data, labels it, and displays it in a dashboard, making it easier to access the status of each drone."
+      - "Played a crucial role in troubleshooting and maintaining the company's software suite, including the drone's autopilot, demonstrating expertise and assertiveness in resolving various issues."
+      - "Working in a production-oriented environment and successfully handled tasks that had a direct impact on production."
+      - "Provided technical support to multiple teams, resolving software issues and developing features to enhance workflow."
+    start: 2022-04-01
+    end: 2022-09-01
+  - name: Recovery Simulations Engineer
+    institution: "Delft Aerospace Rocket Engineering"
+    place: "Delft, NL"
+    description:
+      - "Developed a wind tunnel simulator to allow engineers to test parachute designs, reducing the need for costly wind tunnel testing"
+      - "Led the development team, set goals, tracked tasks, and represented the team to the company"
+    start: 2020-09-01
+    end: 2021-07-01
+technologies:
+  - Python
+  - C++
+  - Go
+  - Matlab
+  - Simulink
+  - Bash
+  - HTML
+  - CSS
+  - JavaScript
+  - Pytorch
+  - TensorFlow
+  - NumPy
+  - Pandas
+  - Flask
+  - Django
+  - FastAPI
+tools:
+  - Git
+  - GitHub
+  - GitLab
+  - Docker
+  - Linux
+  - LaTeX
+  - Jupyter
+  - Jira
+hobbies:
+  - Photography
+  - Reading
+  - Board Games
+  - Video Games
+  - Crafts
+  - Programming
+languages:
+  - name: "English"
+    level: "Proficient"
+  - name: "Dutch"
+    level: "Basic"
+  - name: "Portuguese"
+    level: "Native"
+skills:
+  - Software Development
+  - Data Analysis
+  - Project Management
+  - Teamwork
+  - Problem Solving
+  - Simulations
+  - Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
+  - Control Systems
+  - Optimisation
